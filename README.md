@@ -24,3 +24,11 @@ Mengumpulkan insight dari analisis dan dengan visualisasi berupa :
 2. Kualitas Kategori Produk Tahunan
 3. Jumlah total penjualan tiap kategori produk
 
+=============================================================================================================================================================================
+📂 𝕯𝖆𝖙𝖆 𝕻𝖗𝖊𝖕𝖆𝖗𝖆𝖙𝖎𝖔𝖓✍
+
+Dataset yang digunakan adalah dataset sebuah perusahaan eCommerce  yang memiliki informasi pesanan dengan jumlah 100 dari tahun 2020 hingga 2023. Terdapat fitur-titur yang membuat informasi seperti status dari 3 tabel yaitu tabel customers,orders, dan product.
+
+
+Gambar 1. Data Customers
+<img width="960" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/7e78dbec-2c3f-45d4-bc27-e052bc136dd6">
