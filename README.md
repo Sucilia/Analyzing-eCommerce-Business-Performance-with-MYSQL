@@ -58,6 +58,10 @@ Gambar 1.5 Diagram Batang Data Penjualan
 
 terlihat dari gambar 1.5 bahwa data penjualan tertinggi pada produk Running Shoes Q1
 
+Gambar 1.6 Pergerakan waktu dalam Pembelian barang
+![Time Series Plot of order_date](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/00f72ccf-5929-4bbe-b593-83d99c2ded80)
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
