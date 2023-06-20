@@ -61,9 +61,8 @@ terlihat dari gambar 1.5 bahwa data penjualan tertinggi pada produk Running Shoe
 Gambar 1.6 Pergerakan waktu dalam Pembelian barang
 ![Time Series Plot of order_date](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/00f72ccf-5929-4bbe-b593-83d99c2ded80)
 
-Gambar 1.7
+Gambar 1.7 data Jumlah Produk setiap Kategori
 ![Chart of category](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/d05dc5b2-8b36-4427-8b10-06e5247df776)
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
