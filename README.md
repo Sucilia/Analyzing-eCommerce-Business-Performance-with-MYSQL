@@ -32,3 +32,11 @@ Dataset yang digunakan adalah dataset sebuah perusahaan eCommerce  yang memiliki
 
 Gambar 1. Data Customers
 <img width="960" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/7e78dbec-2c3f-45d4-bc27-e052bc136dd6">
+
+Gambar 2. Data Orders
+<img width="960" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/5069b2be-6557-4c59-aac8-dcc738cfd9f5">
+
+Gambar 3. Data Product
+<img width="960" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/1dadb629-0bce-413b-9aac-5b350a72c407">
+
+
