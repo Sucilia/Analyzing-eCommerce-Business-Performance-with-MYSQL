@@ -51,6 +51,8 @@ Gambar 1.3 Data Product
 Gambar 1.4 Diagram batang data Customers
 ![DATA CUSTEMERS](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/1a85575d-1817-482e-a4b1-23b0129bac3d)
 
+terihat dari gambar 1.4 bahwa data Pelanggan dengan order tertinggi pada daerah Bengkulu
+
 Gambar 1.5 Diagram Batang Data Penjualan
 ![DATA PENJUALAN](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/568e5cf5-2dba-41a7-967c-8b69a173d56e)
 
