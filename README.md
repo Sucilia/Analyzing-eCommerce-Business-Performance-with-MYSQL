@@ -50,17 +50,12 @@ Gambar 1.3 Data Product
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Gambar 1.4 Diagram batang data Customers
 ![DATA CUSTEMERS](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/1a85575d-1817-482e-a4b1-23b0129bac3d)
-
 terihat dari gambar 1.4 bahwa data Pelanggan dengan order tertinggi pada daerah Bengkulu
-
 Gambar 1.5 Diagram Batang Data Penjualan
 ![DATA PENJUALAN](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/568e5cf5-2dba-41a7-967c-8b69a173d56e)
-
 terlihat dari gambar 1.5 bahwa data penjualan tertinggi pada produk Running Shoes Q1
-
 Gambar 1.6 Pergerakan waktu dalam Pembelian barang
 ![Time Series Plot of order_date](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/00f72ccf-5929-4bbe-b593-83d99c2ded80)
-
 Gambar 1.7 data Jumlah Produk setiap Kategori
 ![Chart of category](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/d05dc5b2-8b36-4427-8b10-06e5247df776)
 
