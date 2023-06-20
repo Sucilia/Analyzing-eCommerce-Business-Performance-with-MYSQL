@@ -30,13 +30,13 @@ Mengumpulkan insight dari analisis dan dengan visualisasi berupa :
 Dataset yang digunakan adalah dataset sebuah perusahaan eCommerce  yang memiliki informasi pesanan dengan jumlah 100 dari tahun 2020 hingga 2023. Terdapat fitur-titur yang membuat informasi seperti status dari 3 tabel yaitu tabel customers,orders, dan product.
 
 
-                                                                  Gambar 1. Data Customers
+Gambar 1.1 Data Customers
 <img width="950" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/065038fa-b59d-44ae-8bc4-4766e84c1d88">
 
-                                                                  Gambar 2. Data Orders
+Gambar 1.2 Data Orders
 <img width="958" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/5b997bad-3ab4-48c8-a963-e5449cca61bd">
 
-                                                                  Gambar 3. Data Product
+Gambar 1.3 Data Product
 <img width="949" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/55829730-87c0-49e6-9fe2-6797dee6b46c">
 
 
