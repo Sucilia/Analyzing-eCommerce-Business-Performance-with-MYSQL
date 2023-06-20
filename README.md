@@ -11,5 +11,4 @@ MySQL Workbench adalah software khusus yang didesain untuk keperluan database ya
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img width="358" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/b7396bc8-7093-409d-9d93-48dfffbfaa72">
-Gambar 1. diagram menunjukan jumlah product berdasarkan kategori
+
