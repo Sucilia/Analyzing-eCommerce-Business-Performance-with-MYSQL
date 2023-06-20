@@ -30,13 +30,14 @@ Mengumpulkan insight dari analisis dan dengan visualisasi berupa :
 Dataset yang digunakan adalah dataset sebuah perusahaan eCommerce  yang memiliki informasi pesanan dengan jumlah 100 dari tahun 2020 hingga 2023. Terdapat fitur-titur yang membuat informasi seperti status dari 3 tabel yaitu tabel customers,orders, dan product.
 
 
-Gambar 1. Data Customers
-<img width="960" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/7e78dbec-2c3f-45d4-bc27-e052bc136dd6">
+                                                                  Gambar 1. Data Customers
+<img width="950" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/065038fa-b59d-44ae-8bc4-4766e84c1d88">
 
-Gambar 2. Data Orders
-<img width="960" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/5069b2be-6557-4c59-aac8-dcc738cfd9f5">
+                                                                  Gambar 2. Data Orders
+<img width="958" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/5b997bad-3ab4-48c8-a963-e5449cca61bd">
 
-Gambar 3. Data Product
-<img width="960" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/1dadb629-0bce-413b-9aac-5b350a72c407">
+                                                                  Gambar 3. Data Product
+<img width="949" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/55829730-87c0-49e6-9fe2-6797dee6b46c">
+
 
 
