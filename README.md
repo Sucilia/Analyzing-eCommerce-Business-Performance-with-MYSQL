@@ -39,5 +39,18 @@ Gambar 1.2 Data Orders
 Gambar 1.3 Data Product
 <img width="949" alt="image" src="https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/55829730-87c0-49e6-9fe2-6797dee6b46c">
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📂𝕬𝖓𝖆𝖑𝖎𝖘𝖎𝖘✍
+
+𝒜𝓃𝒶𝓁𝒾𝓈𝒾𝓈 𝒹𝒶𝓉𝒶 𝐵𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝑒𝒞𝑜𝓂𝓂𝑒𝓇𝒸𝑒
+1. Mengonfirmasi pesanan: DM ini memberikan kepastian kepada pelanggan bahwa pesanan mereka telah diterima dengan sukses dan sedang dalam proses.
+2. Memperlihatkan perhatian: Dengan menyebutkan nama pelanggan, Anda menunjukkan bahwa mereka dianggap penting dan bahwa Anda menghargai bisnis mereka.
+3. Memberikan detail pesanan: Menyertakan informasi tentang pesanan dan produk yang dibeli membantu memastikan bahwa pelanggan memiliki pemahaman yang jelas tentang pesanan mereka.
+4. Menawarkan bantuan tambahan: Menyatakan kesiapan untuk memberikan bantuan lebih lanjut atau menjawab pertanyaan pelanggan dapat meningkatkan tingkat kepuasan pelanggan.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gambar 1.4 Diagram batang data Customers
+![DATA CUSTEMERS](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/1a85575d-1817-482e-a4b1-23b0129bac3d)
+
+
 
 
