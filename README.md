@@ -1,2 +1,2 @@
-# reAnalyzing-eCommerce-Business-Performance-with-MYSQL
+#Analyzing-eCommerce-Business-Performance-with-MYSQL
 reAnalyzing eCommerce Business Performance with MYSQL
