@@ -1,4 +1,4 @@
-💰 𝓐𝓷𝓪𝓵𝔂𝔃𝓲𝓷𝓰  𝓮𝓒𝓸𝓶𝓶𝓮𝓻𝓬𝓮 𝓑𝓾𝓼𝓲𝓷𝓮𝓼𝓼 𝓟𝓮𝓻𝓯𝓸𝓶𝓪𝓷𝓬𝓮 𝓜𝔂 𝓢𝓠𝓛
+![DATA PENJUALAN](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/0bd3be6b-38b8-4c71-92e8-37b41c6739df)💰 𝓐𝓷𝓪𝓵𝔂𝔃𝓲𝓷𝓰  𝓮𝓒𝓸𝓶𝓶𝓮𝓻𝓬𝓮 𝓑𝓾𝓼𝓲𝓷𝓮𝓼𝓼 𝓟𝓮𝓻𝓯𝓸𝓶𝓪𝓷𝓬𝓮 𝓜𝔂 𝓢𝓠𝓛
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Apa e-commerce dan e-business itu?
 
@@ -43,13 +43,22 @@ Gambar 1.3 Data Product
 📂𝕬𝖓𝖆𝖑𝖎𝖘𝖎𝖘✍
 
 𝒜𝓃𝒶𝓁𝒾𝓈𝒾𝓈 𝒹𝒶𝓉𝒶 𝐵𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝑒𝒞𝑜𝓂𝓂𝑒𝓇𝒸𝑒
-1. Mengonfirmasi pesanan: DM ini memberikan kepastian kepada pelanggan bahwa pesanan mereka telah diterima dengan sukses dan sedang dalam proses.
-2. Memperlihatkan perhatian: Dengan menyebutkan nama pelanggan, Anda menunjukkan bahwa mereka dianggap penting dan bahwa Anda menghargai bisnis mereka.
-3. Memberikan detail pesanan: Menyertakan informasi tentang pesanan dan produk yang dibeli membantu memastikan bahwa pelanggan memiliki pemahaman yang jelas tentang pesanan mereka.
-4. Menawarkan bantuan tambahan: Menyatakan kesiapan untuk memberikan bantuan lebih lanjut atau menjawab pertanyaan pelanggan dapat meningkatkan tingkat kepuasan pelanggan.
+1. Mengonfirmasi pesanan ini memberikan kepastian kepada pelanggan bahwa pesanan mereka telah diterima dengan sukses dan sedang dalam proses.
+2. Memperlihatkan perhatian Dengan menyebutkan nama pelanggan, Anda menunjukkan bahwa mereka dianggap penting dan bahwa Anda menghargai bisnis mereka.
+3. Memberikan detail pesanan Menyertakan informasi tentang pesanan dan produk yang dibeli membantu memastikan bahwa pelanggan memiliki pemahaman yang jelas tentang pesanan mereka.
+4. Menawarkan bantuan tambahan Menyatakan kesiapan untuk memberikan bantuan lebih lanjut atau menjawab pertanyaan pelanggan dapat meningkatkan tingkat kepuasan pelanggan.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Gambar 1.4 Diagram batang data Customers
 ![DATA CUSTEMERS](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/1a85575d-1817-482e-a4b1-23b0129bac3d)
+
+Gambar 1.5 Diagram Batang Data Penjualan
+![DATA PENJUALAN](https://github.com/Sucilia/Analyzing-eCommerce-Business-Performance-with-MYSQL/assets/93129907/568e5cf5-2dba-41a7-967c-8b69a173d56e)
+
+terlihat dari gambar 1.5 bahwa data penjualan tertinggi pada produk Running Shoes Q1
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
